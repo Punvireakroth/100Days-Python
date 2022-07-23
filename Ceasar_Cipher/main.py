@@ -50,3 +50,6 @@ if direction == "encode".lower():
 elif direction == "decode".lower():
     decrypt(text, shift)
 
+# Refactor 
+
+#TODO-1: Combine the encrypt() and decrypt() functions into a single function called caesar(). 
